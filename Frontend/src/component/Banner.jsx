@@ -25,7 +25,7 @@ function Banner() {
 </label>
 </div>
 
-<button className="btn btn-secondary mt-6">Secondary</button>
+<button className="btn btn-secondary mt-6">Get Started</button>
   </div>
   {/* left part od Banner */}
   <div className="card w-full md:w-1/2 order-1 relative z-0">
